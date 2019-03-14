@@ -1,0 +1,3 @@
+test stash.
+this is tracked file.
+these words are staged.
